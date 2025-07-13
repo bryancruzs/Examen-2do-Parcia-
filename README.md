@@ -25,7 +25,7 @@ http://localhost:8000
 
 Integrantes
 Bryan David Cruz Suazo 201920010328
-Andros Daniel Castro Lopez 202310030142
+Andros Dariel Castro Lopez 202310030142
 
 
 
